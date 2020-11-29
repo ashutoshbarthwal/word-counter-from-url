@@ -1,0 +1,14 @@
+{
+  "name": "word-counter",
+  "version": "1.0.0",
+  "description": "Count Word From Urls",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ashutosh Barthwal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
